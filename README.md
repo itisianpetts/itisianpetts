@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ian
+- 👋 Hi, I’m Ian. I live in Portsmouth, UK
 
 - 🌱 I’m currently looking for ... A Junior Web Development Job
 
