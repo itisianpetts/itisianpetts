@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently looking for ... A Junior Web Development Job
 
-- 👀 I’m interested in Javascript / Web Development
+- 👀 I’m interested in Javascript & React / Web Development
 
-- 🌱 I’m currently learning ... React and Vue
+- 🌱 I’m currently learning ... React(Next & Gatsby) and Vue
 
 - 💞️ I’m looking to collaborate on ... Anything and Everything
 
